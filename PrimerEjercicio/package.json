@@ -1,0 +1,17 @@
+{
+  "name": "primerejercicio",
+  "version": "1.0.0",
+  "description": "Primer ejercicio certificación OpenBootCamp Javascript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "openbootcamp",
+    "chrispaulrtv"
+  ],
+  "author": "ChrisPaulRTV",
+  "license": "ISC"
+}
