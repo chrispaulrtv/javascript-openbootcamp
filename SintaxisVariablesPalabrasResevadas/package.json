@@ -1,0 +1,12 @@
+{
+  "name": "sintaxisvariablespalabrasresevadas",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 Javascipt OpenBootCamp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChrisPaulRTV",
+  "license": "ISC"
+}
